@@ -1,5 +1,21 @@
 # Strawb System Fronter
 
+Example output:
+
+```
+Outputs:
+
+fronter_avatar_url = "https://system.straw.be/assets/img/lucy.jpeg"
+fronter_color = "cc0066"
+fronter_id = "shdxk"
+fronter_name = "Lucy"
+fronter_pronouns = "they/them"
+```
+
+For information on Lucy specifically, see the Official Lucy Davinhart Terraform Module:
+
+https://registry.terraform.io/modules/lucydavinhart/lucy/lmhd/latest
+
 ## Requirements
 
 No requirements.
